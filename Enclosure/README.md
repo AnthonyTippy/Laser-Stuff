@@ -14,8 +14,7 @@ I drafted up a rough design in tinkercad
 
 The enclosure is designed to be fairly easy to assemble and customize to different applications.  Its constructed out of 2020 alluminum extrusion.
 
-The bill of materials is listed below.  The only thing not purchased was the "walls" which we were able to cut with our CNC at work.  If you want to cut them yourself you can find them [here]
-(https://github.com/AnthonyTippy/Laser-Stuff/tree/main/Enclosure/enclosure-cut-files)
+The bill of materials is listed below.  The only thing not purchased was the "walls" which we were able to cut with our CNC at work.  If you want to cut them yourself you can find them [here](https://github.com/AnthonyTippy/Laser-Stuff/tree/main/Enclosure)
 
 ## Bill of Materials
 			
