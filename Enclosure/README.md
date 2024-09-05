@@ -8,6 +8,14 @@ So after some research and planning I constructed a removable enclosure based on
 
 ![alt text](image.png)
 
+I drafted up a rough design in tinkercad 
+![alt text](image-1.png)
+![alt text](image-2.png)
+
+The enclosure is designed to be fairly easy to assemble and customize to different applications.  Its constructed out of 2020 alluminum extrusion.
+
+The bill of materials is listed below.  The only thing not purchased was the "walls" which we were able to cut with our CNC at work.  If you want to cut them yourself you can find them [here]
+(https://github.com/AnthonyTippy/Laser-Stuff/tree/main/Enclosure/enclosure-cut-files)
 
 ## Bill of Materials
 			
@@ -19,4 +27,4 @@ So after some research and planning I constructed a removable enclosure based on
 - [2020 m5 nut and bolt kit](https://www.amazon.com/gp/product/B0C4JV8QPG/ref=ox_sc_act_title_3?smid=A1X2NHDDQ7UCAG&psc=1)
 - exterior wall panels (I cut mine with the CNC we have access to )
 - small 80mm exaust fan	
-			
+
